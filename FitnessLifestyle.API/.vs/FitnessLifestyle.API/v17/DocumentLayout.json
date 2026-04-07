@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\services\\ifitnessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\services\\ifitnessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\services\\fitnessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\services\\fitnessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\models\\workoutsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\models\\workoutsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\models\\nutritionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\models\\nutritionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\models\\medicalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\models\\medicalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\models\\badge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\models\\badge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\migrations\\20260406172655_seeddatav2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\migrations\\20260406172655_seeddatav2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\migrations\\20260406163412_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\migrations\\20260406163412_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\fitnesslifestyle.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\fitnesslifestyle.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\migrations\\20260406163412_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\migrations\\20260406163412_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\migrations\\20260406185113_addmissingfieldstomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\migrations\\20260406185113_addmissingfieldstomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\migrations\\20260407104710_addimageandaiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\migrations\\20260407104710_addimageandaiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|c:\\laptrinhweb\\fitnesslifestyle.api\\fitnesslifestyle.api\\migrations\\20260407092534_addimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFFBAB7-B1F1-48C3-9D31-BAE0EFD9AB72}|FitnessLifestyle.API\\FitnessLifestyle.API.csproj|solutionrelative:fitnesslifestyle.api\\migrations\\20260407092534_addimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\WeatherForecast.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:36:01.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\appsettings.Development.json",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\appsettings.Development.json",
+              "RelativeToolTip": "FitnessLifestyle.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T17:35:25.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Models\\Food.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\Food.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:25:19.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicalProfile.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\MedicalProfile.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Models\\MedicalProfile.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\MedicalProfile.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Models\\MedicalProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:24:45.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NutritionLog.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\NutritionLog.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Models\\NutritionLog.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\NutritionLog.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Models\\NutritionLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:25:50.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Models\\User.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\User.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:11:24.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkoutSession.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\WorkoutSession.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Models\\WorkoutSession.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\WorkoutSession.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Models\\WorkoutSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:27:14.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FitnessService.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Services\\FitnessService.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Services\\FitnessService.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Services\\FitnessService.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Services\\FitnessService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:36:22.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Program.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Program.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:31:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Models\\Exercise.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\Exercise.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Models\\Exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:26:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFitnessService.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Services\\IFitnessService.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Services\\IFitnessService.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Services\\IFitnessService.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Services\\IFitnessService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:35:58.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Badge.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\Badge.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Models\\Badge.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Models\\Badge.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Models\\Badge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:27:50.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260406172655_SeedDataV2.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260406172655_SeedDataV2.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Migrations\\20260406172655_SeedDataV2.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260406172655_SeedDataV2.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Migrations\\20260406172655_SeedDataV2.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:26:55.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260406163412_InitialCreate.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260406163412_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Migrations\\20260406163412_InitialCreate.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260406163412_InitialCreate.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Migrations\\20260406163412_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:34:13.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthDTOs.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\DTOs\\AuthDTOs.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\DTOs\\AuthDTOs.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\DTOs\\AuthDTOs.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\DTOs\\AuthDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:51:53.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:28:51.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorkoutController.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\WorkoutController.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Controllers\\WorkoutController.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\WorkoutController.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Controllers\\WorkoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:37:55.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:58:48.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:37:26.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NutritionController.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\NutritionController.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Controllers\\NutritionController.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\NutritionController.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Controllers\\NutritionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:34:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExerciseController.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\ExerciseController.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Controllers\\ExerciseController.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\ExerciseController.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Controllers\\ExerciseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:36:01.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:34:01.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwFQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T08:58:33.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwEoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:53:05.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:36:31.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\appsettings.json",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\appsettings.json",
+              "RelativeToolTip": "FitnessLifestyle.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-06T10:09:49.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260407104710_AddImageAndAiConfig.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260407104710_AddImageAndAiConfig.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Migrations\\20260407104710_AddImageAndAiConfig.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260407104710_AddImageAndAiConfig.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Migrations\\20260407104710_AddImageAndAiConfig.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:47:10.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260407092534_AddImage.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260407092534_AddImage.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Migrations\\20260407092534_AddImage.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260407092534_AddImage.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Migrations\\20260407092534_AddImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:25:35.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FitnessLifestyle.API.http",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\FitnessLifestyle.API.http",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\FitnessLifestyle.API.http",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\FitnessLifestyle.API.http",
+              "RelativeToolTip": "FitnessLifestyle.API\\FitnessLifestyle.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-06T16:31:41.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260406185113_AddMissingFieldsToModels.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260406185113_AddMissingFieldsToModels.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Migrations\\20260406185113_AddMissingFieldsToModels.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260406185113_AddMissingFieldsToModels.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Migrations\\20260406185113_AddMissingFieldsToModels.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:51:14.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260406163412_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260406163412_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "FitnessLifestyle.API\\Migrations\\20260406163412_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\LapTrinhWeb\\FitnessLifestyle.API\\FitnessLifestyle.API\\Migrations\\20260406163412_InitialCreate.Designer.cs",
+              "RelativeToolTip": "FitnessLifestyle.API\\Migrations\\20260406163412_InitialCreate.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:24:27.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

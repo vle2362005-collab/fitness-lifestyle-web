@@ -1,0 +1,10 @@
+# BỘ LỌC CHO BACKEND (C# ASP.NET)
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.sqlite
+*.mdf
+*.ldf
+appsettings.json
